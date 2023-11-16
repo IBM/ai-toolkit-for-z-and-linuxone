@@ -71,7 +71,7 @@ for security vulnerabilities and validate compliance with industry regulations.
 supported within the AI Toolkit for IBM Z and IBM LinuxONE can be found
 [here](https://www.ibm.com/products/ai-toolkit-for-z-and-linuxone)**. Details on
 the level of support is available in the
-[What to Expect From Support](support-terms) document.
+[What to Expect From Support](support-terms.md) document.
 
 For information about upcoming IBM news, become a member of the
 [AI on IBM Z Community](https://ibm.biz/aionibmz-community).
@@ -82,7 +82,7 @@ By default, the container images listed in this documentation, and related AI
 Toolkit documentation, must not be placed into a production environment without
 additional security precautions in effect. While each deployment environment is
 uniquely different from the next, as a baseline set of security precautions,
-please view our [Recommended Deployment Guidelines](deployment-guidelines)
+please view our [Recommended Deployment Guidelines](deployment-guidelines.md)
 documentation.
 
 Additional resources for leveraging AI with IBM Z are available
