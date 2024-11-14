@@ -28,6 +28,7 @@ images that run in both the Linux, and zCX environments of z/OS on IBM Z:
 - [IBM Z Accelerated for TensorFlow](https://github.com/IBM/ibmz-accelerated-for-tensorflow)
 - [IBM Z Accelerated for NVIDIA Triton™ Inference Server](https://github.com/IBM/ibmz-accelerated-for-nvidia-triton-inference-server)
 - [IBM Z Accelerated Serving for TensorFlow](https://github.com/IBM/ibmz-accelerated-serving-for-tensorflow)
+- [IBM Z Accelerated for PyTorch](https://github.com/IBM/ibmz-accelerated-for-pytorch)
 
 The container images for each AI Framework can be downloaded from the
 [IBM Container Registry](https://icr.io).
@@ -50,6 +51,7 @@ release cadence, please visit the respective documentation as linked below:
 - [IBM Z Accelerated for TensorFlow Versioning Policy and Release Cadence](https://github.com/IBM/ibmz-accelerated-for-tensorflow#versioning)
 - [IBM Z Accelerated for NVIDIA Triton™ Inference Server Versioning Policy and Release Cadence](https://github.com/IBM/ibmz-accelerated-for-nvidia-triton-inference-server#versioning)
 - [IBM Z Accelerated Serving for TensorFlow Versioning Policy and Release Cadence](https://github.com/IBM/ibmz-accelerated-serving-for-tensorflow#versioning)
+- [IBM Z Accelerated for PyTorch Versioning Policy and Release Cadence](https://github.com/IBM/ibmz-accelerated-for-pytorch#versioning)
 
 # Technical Support <a id="contact"></a>
 
